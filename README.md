@@ -37,5 +37,5 @@ For Part C, input a postfix expression and the program will evaluate it.
 For Part D, input editing commands to simulate an edit history.
 
 Credits
-Martha
+Martha,
 Julia
