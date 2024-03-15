@@ -1,5 +1,4 @@
 # COM-212-Data-Structures-Course
-COM 212 Assignment
 This repository contains the solutions for the COM 212 assignment, completed by Martha and Julia.
 My Partner and I shared the tasks . I was resposible for programming the Matching Brackets, Playing Markets and the Post fix calculator. Even though we shared the task, we still helped each other out with the tasks we each of responsible for when either of us got stuck. We were a really good team.
 
